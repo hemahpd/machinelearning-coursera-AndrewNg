@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Created by Octave 4.4.1, Mon Aug 03 12:11:08 2020 GMT <unknown@LAPTOP-GIN44EDI>
 # name: email
 # type: sq_string
@@ -13,3 +14,20 @@ hemahpd07@gmail.com
 24Mz0QgbAYqnJbSE
 
 
+=======
+# Created by Octave 4.4.1, Mon Aug 03 12:11:08 2020 GMT <unknown@LAPTOP-GIN44EDI>
+# name: email
+# type: sq_string
+# elements: 1
+# length: 19
+hemahpd07@gmail.com
+
+
+# name: token
+# type: sq_string
+# elements: 1
+# length: 16
+24Mz0QgbAYqnJbSE
+
+
+>>>>>>> b55f001101d0dc3cda1223352d502a633362e5cc
